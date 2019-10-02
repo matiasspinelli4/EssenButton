@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EssenButton_Example' do
+  pod 'EssenButton', :path => '../'
+
+  target 'EssenButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
