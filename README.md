@@ -9,9 +9,10 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-https://github.com/matiasspinelli4/EssenButton/blob/master/essenbutton.png
 
-https://github.com/matiasspinelli4/EssenButton/blob/master/essenbutton.gif
+![alt text](https://github.com/matiasspinelli4/EssenButton/blob/master/essenbutton.png)
+
+![alt text](https://github.com/matiasspinelli4/EssenButton/blob/master/essenbutton.gif)
 
 ## Requirements
 
