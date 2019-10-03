@@ -1,0 +1,6 @@
+framework module Pods_EssenButton_Tests {
+  umbrella header "Pods-EssenButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module EssenButton {
+  umbrella header "EssenButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

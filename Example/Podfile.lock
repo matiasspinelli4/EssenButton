@@ -1,0 +1,16 @@
+PODS:
+  - EssenButton (0.1.0)
+
+DEPENDENCIES:
+  - EssenButton (from `../`)
+
+EXTERNAL SOURCES:
+  EssenButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EssenButton: 01184fc048de8cc52dc07abf8bf2d45fa5016e5e
+
+PODFILE CHECKSUM: f2200c04c5b494c081d6db6645497f62a4ee6525
+
+COCOAPODS: 1.7.5
